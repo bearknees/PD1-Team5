@@ -1,1 +1,11 @@
 # PD1-Team5
+
+Design of Optimized Evacuation Routing for a Digital Twin Geographical Mapping System
+
+The general objective of this project is to design an optimized evacuation routing within a digital twin geographical mapping system that integrates near real-time hazard assessments and simulations to enhance disaster preparedness.
+
+* Design a system that simulates the physical to digital environment for optimized evacuation routes.
+* Develop a web application for hazard forecasting and evacuation route management.
+* Develop a mobile application that notifies hazard assessments and displays the optimized evacuation routes of the user.
+* Test and evaluate the accuracy.
+
